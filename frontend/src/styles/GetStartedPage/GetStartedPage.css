@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 .getstarted__page{
     background-color: white;
     padding: 1% 5%;
@@ -10,8 +9,9 @@
     font-size: 30px;
 }
 .admin__signin__title{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
+        font-family: 'Poppins', sans-serif;
+
+    font-weight: 300 !important;
     cursor: pointer;
 }
 /* .admin__signin__title:hover{
@@ -21,7 +21,8 @@
     align-items: center;
 }
 .text__section{
-    font-family: 'Montserrat', sans-serif;
+        font-family: 'Poppins', sans-serif;
+
     /* background-color: blueviolet; */
     text-align: left;
 }
@@ -30,8 +31,10 @@
     text-align: center;
 }
 .text__section__title{
-font-weight: 600;
+font-weight: 400;
 font-size: 40px;
+color: #292563 !important;
+
 }
 .text__section__subtitle{
     margin: 30px 0;

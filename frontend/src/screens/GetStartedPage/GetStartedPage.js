@@ -68,12 +68,11 @@ const GetStartedPage = () => {
         <div className="row get__started__section ">
           <div className="col col-lg-6 col-md-12 col-sm-12  text__section">
             <div className="text__section__title">
-              Manage your all employees, patients, & physicians all in one
-              place.
+              Manage your all employees, tutors, & learners all in one place.
             </div>
             <div className="text__section__subtitle">
-              Admin can add employees, patients, or physicians. And Employees
-              can send any updates to patients or physicians via email.🎉
+              Admin can add employees, tutors, & learners. And Employees can
+              send any updates to tutors & learners via email.🎉
             </div>
             <div className="">
               {/* <button
@@ -97,7 +96,7 @@ const GetStartedPage = () => {
           </div>
           <div className="col col-lg-6 col-md-12 col-sm-12 order-lg-0 order-first image__section">
             <img
-              src="https://res.cloudinary.com/proudposhak-com/image/upload/v1654853786/easypizi/patient-consulting-with-a-medical-professional_k8zwlg.png"
+              src="https://res.cloudinary.com/proudposhak-com/image/upload/v1654859072/easypizi/people-hanging-out-indoors_1_i4zani.png"
               alt="getstarted"
               className="getStarte__page__image"
             />

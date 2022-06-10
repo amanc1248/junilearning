@@ -4,7 +4,7 @@ const LoaderMain = () => {
   return (
     <div className="main__loader">
       <div>
-        <div className="main__loader__text">Gradia Health ...</div>
+        <div className="main__loader__text">Juni learning ...</div>
       </div>
     </div>
   );
